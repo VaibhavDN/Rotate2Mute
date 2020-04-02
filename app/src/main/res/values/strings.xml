@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rotate2Mute</string>
+    <string name="enable_disable">Enable/Disable:</string>
+    <string name="mute_unmute">Mute/Unmute</string>
+</resources>
